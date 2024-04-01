@@ -28,6 +28,8 @@ class Main {
 1/**
     */
     System.out.println("///**/*/");
+    System.out.println("");
+    System.out.println("");
   }
 
   private void A() {}
