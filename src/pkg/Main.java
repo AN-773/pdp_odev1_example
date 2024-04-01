@@ -35,6 +35,9 @@ class Main {
   private void A() {}
 
   public int B() {} Main BM() {}
-  
+ /*
+  */
+  /**
+  */
   
 }
