@@ -36,7 +36,7 @@
 
   private List<String>A() {}
 
-  public List<Map<String,Integer>> B() {} Main BM() {}
+  public List<Map<String,Integer>> B() {} Something<Map<String, Integer>, Map<Integer,String>> BM() {}
  /*
   */
   /**
