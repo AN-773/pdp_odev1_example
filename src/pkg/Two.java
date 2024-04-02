@@ -13,19 +13,19 @@
 */
 
  class// /**/Main// {
-   Main
+   Two
   {
 /***/
-  Main(int x) {}
+  Two(int x) {}
 
-  public Main() {}
+  public Two() {}
 
-  /**/private/***/ Main/**/(double s) {}
+  /**/private/***/ Two/**/(double s) {}
 
-  @annotation Main(int i, int jk) {}
+  @annotation Two(int i, int jk) {}
 
   @annotation ////////
-  Main(double s, double a) {
+  Two(double s, double a) {
     /*
 1/**
     */
@@ -34,9 +34,9 @@
     System.out.println("");
   }
 
-  private void A() {}
+  private List<String>A() {}
 
-  public int B() {} Main BM() {}
+  public List<Map<String,Integer>> B() {} Main BM() {}
  /*
   */
   /**
