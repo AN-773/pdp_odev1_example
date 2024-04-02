@@ -12,7 +12,8 @@
 3
 */
 
-class Main {
+ /**/class/**/ /**/Main// {
+  {
 /***/
   Main(int x) {}
 
