@@ -49,3 +49,4 @@
   double X() {}
   /**/
 }
+//Doesn't End with \n
