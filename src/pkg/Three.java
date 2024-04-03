@@ -37,7 +37,7 @@ import java.lang.annotation.*;
 
   @MyConstructorAnnotation(value = "example", intValue = 10, stringValue = "custom") Three(int i, int jk) {}
 
-  @MyConstructorAnnotation /**/(value = "example", intValue = 10, stringValue = "custom") ////////
+  @MyConstructorAnnotation /**/(value = "example", intValue = (10), stringValue = "custom") ////////
   Three(double s, double a) {
     /*
 1/**
