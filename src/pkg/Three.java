@@ -30,7 +30,7 @@
 1/**
     */
     System.out.println("///**/*/");
-    System.out.println("");
+    System.out.println("//This should not be comment\\");
     System.out.println("");
   }
 
