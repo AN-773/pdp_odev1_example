@@ -46,7 +46,10 @@
   /**
   */
 
-  double X() {}
+  double X() {
+    
+  }
+    Three clone() {}
   /**/
 }
 //Doesn't End with \n
