@@ -12,6 +12,19 @@
 3
 */
 
+import java.lang.annotation.*;
+
+@Retention(RetentionPolicy.RUNTIME)
+@Target(ElementType.CONSTRUCTOR)
+@interface MyConstructorAnnotation {
+    String value();
+
+    int intValue() default 0;
+
+    String stringValue() default "default";
+
+}
+
  class// /**/Main// {
    Three<T,Y>
   {
@@ -22,9 +35,9 @@
 
   /**/private/***/ Three/**/(double s) {}
 
-  @annotation Three(int i, int jk) {}
+  @MyConstructorAnnotation(value = "example", intValue = 10, stringValue = "custom") Three(int i, int jk) {}
 
-  @annotation ////////
+  @MyConstructorAnnotation /**/(value = "example", intValue = 10, stringValue = "custom") ////////
   Three(double s, double a) {
     /*
 1/**
