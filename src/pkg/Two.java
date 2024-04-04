@@ -22,9 +22,9 @@
 
   /**/private/***/ Two/**/(double s) {}
 
-  @annotation Two(int i, int jk) {}
+  @MyConstructorAnnotation Two(int i, int jk) {}
 
-  @annotation ////////
+  @MyConstructorAnnotation ////////
   Two(double s, double a) {
     /*
 1/**
@@ -36,7 +36,7 @@
 
   private List<String>A() {}
 
-  public List<Map<String,Integer>> B() {} Something<Map<String, Integer>  ,  Map< Integer , Map<String, Integer> > > BM() {}
+  public List<Map<String,Integer>> B() {return null;} Something<Map<String, Integer>  ,  Map< Integer , Map<String, Integer> > > BM() {return null;}
  /*
   */
   /**
@@ -46,6 +46,9 @@
   /**
   */
 
-  double X() {}
+  double X() {
+    A();
+    return 1.0;
+  }
   /**/
 }

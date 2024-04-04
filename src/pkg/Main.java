@@ -21,9 +21,9 @@
 
   /**/private/***/ Main/**/(double s) {}
 
-  @annotation Main(int i, int jk) {}
+  @MyConstructorAnnotation Main(int i, int jk) {}
 
-  @annotation ////////
+  @MyConstructorAnnotation ////////
   Main(double s, double a) {
     /*
 1/**
@@ -35,7 +35,7 @@
 
   private void A() {}
 
-  public int B() {} Main BM() {}
+  public int B() {return 0;} Main BM() {return null;}
  /*
   */
   /**
@@ -45,6 +45,6 @@
   /**
   */
 
-  double X() {}
+  double X() {return 0.0}
   /**/
 }

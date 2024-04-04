@@ -39,8 +39,8 @@
 
   private List<String>A() {}
 
-  public List<Map<String,Integer>> B() {} Something<Map<String, Integer>  ,  Map< Integer , Map<String, Integer> > //> BM() {}
-    > BM() {}
+  public List<Map<String,Integer>> B() {return null;} Something<Map<String, Integer>  ,  Map< Integer , Map<String, Integer> > //> BM() {}
+    > BM() {throw new Exception("");}
  /*
   */
   /**
@@ -51,7 +51,7 @@
   */
 
   double X() {
-    
+    return 0.0;
   }
     Three clone() {}
   /**/
