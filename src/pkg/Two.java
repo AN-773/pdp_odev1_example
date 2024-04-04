@@ -3,7 +3,7 @@
 */
 
 /**/package // pkg;
-  pkg;
+        repo.src.pkg;
 // asd
 /*0*/
 /*
@@ -12,7 +12,10 @@
 3
 */
 
- class// /**/Main// {
+import java.util.List;
+import java.util.Map;
+
+class// /**/Main// {
    Two
   {
 /***/
@@ -34,9 +37,9 @@
     System.out.println("");
   }
 
-  private List<String>A() {}
+  private List<String> A() {return null;}
 
-  public List<Map<String,Integer>> B() {return null;} Something<Map<String, Integer>  ,  Map< Integer , Map<String, Integer> > > BM() {return null;}
+  public List<Map<String,Integer>> B() {return null;} Map<Map<String, Integer>  ,  Map< Integer , Map<String, Integer> > > BM() {return null;}
  /*
   */
   /**
@@ -50,5 +53,7 @@
     A();
     return 1.0;
   }
+
+  Two cloneMe() {return this;}
   /**/
 }

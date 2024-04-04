@@ -3,7 +3,7 @@
 */
 
 /**/package // pkg;
-  pkg;
+        repo.src.pkg;
 // asd
 /*0*/
 /*
@@ -45,6 +45,6 @@
   /**
   */
 
-  double X() {return 0.0}
+  double X() {return 0.0;}
   /**/
 }

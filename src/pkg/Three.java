@@ -3,7 +3,7 @@
 */
 
 /**/package // pkg;
-  pkg;
+        repo.src.pkg;
 // asd
 /*0*/
 /*
@@ -13,9 +13,10 @@
 */
 
 
+import java.util.List;
+import java.util.Map;
 
-
- class// /**/Main// {
+class// /**/Main// {
    Three<T,Y>
   {
 /***/
@@ -37,10 +38,10 @@
     System.out.println("");
   }
 
-  private List<String>A() {}
+  private List<String>A() {return null;}
 
-  public List<Map<String,Integer>> B() {return null;} Something<Map<String, Integer>  ,  Map< Integer , Map<String, Integer> > //> BM() {}
-    > BM() {throw new Exception("");}
+  public List<Map<String,Integer>> B() {return null;} Map<Map<String, Integer>  ,  Map< Integer , Map<String, Integer> > //> BM() {}
+    > BM() {return null;}
  /*
   */
   /**
@@ -53,7 +54,7 @@
   double X() {
     return 0.0;
   }
-    Three clone() {}
+
   /**/
 }
 //Doesn't End with \n
