@@ -36,16 +36,16 @@ Yorum Sapma Yüzdesi: % 48.15
 Sınıf: Three.java
 Javadoc Satır Sayısı: 1
 Yorum Satır Sayısı: 11
-Kod Satır Sayısı: 22
-LOC: 59
-Fonksiyon Sayısı: 10
-Yorum Sapma Yüzdesi: % 45.45
+Kod Satır Sayısı: 24
+LOC: 60
+Fonksiyon Sayısı: 9
+Yorum Sapma Yüzdesi: % 33.33
 -----------------------------------------
 Sınıf: Two.java
 Javadoc Satır Sayısı: 1
 Yorum Satır Sayısı: 9
-Kod Satır Sayısı: 19
-LOC: 51
-Fonksiyon Sayısı: 9
-Yorum Sapma Yüzdesi: % 40.35
+Kod Satır Sayısı: 25
+LOC: 59
+Fonksiyon Sayısı: 10
+Yorum Sapma Yüzdesi: % 6.67
 ```
