@@ -1,6 +1,6 @@
 package pkg;
 
-interface Two {
+interface ITwo {
     /*
         public class TwoImplementation {
 
