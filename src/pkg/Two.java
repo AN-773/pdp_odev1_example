@@ -49,11 +49,11 @@ class// /**/Main// {
   /**
   */
 
-  double Two() {
+  boolean Two() {
     A();
-    return 1.0;
+    return 1 < 0;
   }
 
-  Two cloneMe() {return this;}
+  Two cloneMe() { Two(); return 1 > 0 ? this : null;}
   /**/
 }
