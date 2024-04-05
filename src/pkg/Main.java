@@ -12,7 +12,7 @@
 3
 */
 
- /**/class/**/ /**/Main// {
+ public/**/class/**/ /**/Main// {
   {
 /***/
   Main(int x) {}
