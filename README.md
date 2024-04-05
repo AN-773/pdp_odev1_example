@@ -3,7 +3,7 @@
 ### Calculations used. NOTE !! they might be wrong
 ```text
 /**/ = 0
-
+/*{anything}*/ = 0
 /***/ = 0
 
 /*
@@ -16,7 +16,7 @@
 
 */ = 1
 
-//{Anything} = 1
+//{Anything Or Nothing} = 1
 
 class SomeName { //Comment = 1 code line and 1 comment line
 
