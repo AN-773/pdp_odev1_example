@@ -3,7 +3,7 @@
 */
 
 /**/package // pkg;
-        repo.src.pkg;
+        pkg;
 // asd
 /*0*/
 /*
