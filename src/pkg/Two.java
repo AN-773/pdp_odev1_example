@@ -15,8 +15,7 @@
 import java.util.List;
 import java.util.Map;
 
-class// /**/Main// {
-   Two
+class/**/Two
   {
 /***/
   Two(int x) {}
