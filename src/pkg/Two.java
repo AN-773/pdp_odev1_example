@@ -49,7 +49,7 @@ class// /**/Main// {
   /**
   */
 
-  double X() {
+  double Two() {
     A();
     return 1.0;
   }
