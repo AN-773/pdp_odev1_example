@@ -38,7 +38,7 @@ class/**/Two{
 
   private List<String> A() {return null;}
 
-  public List<Map<String,Integer>> B() {return null;} Map<Map<String, Integer>  ,  Map< Integer , Map<String, Integer> > > BM() {return null;}
+  public List<Map<String,Integer[]>> B() {return null;} Map<Map<String, Integer>  ,  Map< Integer , Map<String, Integer> > > BM() {return null;}
  /*
   */
   /**
