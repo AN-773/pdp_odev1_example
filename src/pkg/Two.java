@@ -48,7 +48,7 @@ class/**/Two{
   /**
   */
 
-  boolean Two() {
+  int[] Two() {
     A();
     return 1 < 0;
   }
